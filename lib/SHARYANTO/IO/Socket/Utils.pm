@@ -1,7 +1,7 @@
 package SHARYANTO::IO::Socket::Utils;
 
 our $DATE = '2014-07-06'; # DATE
-our $VERSION = '0.02'; # VERSION
+our $VERSION = '0.03'; # VERSION
 
 1;
 # ABSTRACT: Socket utilities
@@ -18,7 +18,7 @@ SHARYANTO::IO::Socket::Utils - Socket utilities
 
 =head1 VERSION
 
-This document describes version 0.02 of SHARYANTO::IO::Socket::Utils (from Perl distribution SHARYANTO-IO-Socket-Utils), released on 2014-07-06.
+This document describes version 0.03 of SHARYANTO::IO::Socket::Utils (from Perl distribution SHARYANTO-IO-Socket-Utils), released on 2014-07-06.
 
 =head1 SEE ALSO
 

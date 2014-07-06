@@ -2,7 +2,7 @@ NAME
     SHARYANTO::IO::Socket::Utils - Socket utilities
 
 VERSION
-    This document describes version 0.02 of SHARYANTO::IO::Socket::Utils
+    This document describes version 0.03 of SHARYANTO::IO::Socket::Utils
     (from Perl distribution SHARYANTO-IO-Socket-Utils), released on
     2014-07-06.
 
